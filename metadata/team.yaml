@@ -1,0 +1,19 @@
+# Build Secure 24 — Team Metadata
+# Team Composition Rule: Exactly 2 or 4 registered participants.
+# - If your team has 2 members: provide Member 1 and Member 2, and omit/delete Member 3 and 4.
+# - If your team has 4 members: provide all 4 members.
+
+team:
+  team_id: "Error 404"
+  name: "Error 404"
+  repository: "https://github.com/25p61a05e9-debug/Error-404.git" # URL of the newly created GitHub repository for this project
+
+members:
+  - name: "Karnati Manideep"
+    email: "25p61a05f8@vbithyd.ac.in"
+  - name: "K.Sai Gowtham"
+    email: "25p61a05h5@vbithyd.ac.in"
+  - name: "K.Yashwanth"
+    email: "25p61a05e9@vbithyd.ac.in"
+  - name: "K.Varshith"
+    email: "25p61a05h2@vbithyd.ac.in"
