@@ -83,7 +83,7 @@ Agent Response Summary:
 The frontend was implemented end-to-end around the specified FinTrack product requirements. I used local mock data and context-based state so the dashboard behaves like a real app without a backend and remains ready for future API integration.
 
 Commit SHA:
-da84789
+ed81d49f9b4fda07b227c3a01103eae8f8869e5b
 
 Files Modified / Created:
 * package.json (Modified)
