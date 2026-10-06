@@ -45,7 +45,10 @@ body {
   border-radius: 999px;
 }
 
-input, select, button, textarea {
+input,
+select,
+button,
+textarea {
   font: inherit;
 }
 
